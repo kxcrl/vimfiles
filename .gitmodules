@@ -1,0 +1,3 @@
+[submodule "bundle/vim-force.com"]
+	path = bundle/vim-force.com
+	url = https://github.com/neowit/vim-force.com.git
