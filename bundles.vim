@@ -55,7 +55,7 @@ Bundle "git://github.com/terryma/vim-multiple-cursors.git"
 Bundle "git://github.com/Lokaltog/powerline.git"
 Bundle "https://github.com/neowit/vim-force.com.git"
 Bundle "git://github.com/derekwyatt/vim-scala.git"
-Bundle "git://github.com//guns/vim-clojure-static"
+Bundle "git://github.com/guns/vim-clojure-static"
 Bundle "git://github.com/tpope/vim-fireplace.git"
 Bundle "git://github.com/tpope/vim-classpath.git"
 
