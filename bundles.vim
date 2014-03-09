@@ -57,6 +57,7 @@ Bundle "guns/vim-clojure-static"
 Bundle "tpope/vim-fireplace.git"
 Bundle "tpope/vim-classpath.git"
 Bundle "slim-template/vim-slim"
+Bundle "elixir-lang/vim-elixir"
 
 filetype plugin indent on     " and turn it back on!
 
